@@ -1,1 +1,7 @@
-test
+GIT clone .........
+code .
+
+GIT status
+GIT add .
+GIT commit -m initialcommit
+Git push origin main
